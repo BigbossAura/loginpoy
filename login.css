@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.loginpage{
+    margin: auto;
+    margin-top: 200px;
+    width: 600px;
+    padding: 40px;
+    height: 52vh;
+    background-color: rgba(0, 0, 0, 0.075);
+    box-shadow: 2px 10px 10px 2px rgba(0, 0, 0, 0.479);
+}
+
+
+.awe{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: royalblue;
+}
+
+input{
+    width: 300px;
+    height: 50px;
+    position: relative;
+    left: 120px;
+    top: 40px;
+    padding: 10px;
+    border: 1px solid rgba(0, 0, 255, 0.164);
+    outline: royalblue;
+    border-radius: 15px;
+}
+
+label{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 130px;
+    top: 40px;
+    color: royalblue;
+}
+
+.sub{
+    color: white;
+    font-size: 25px;
+    background-color: royalblue;
+    border: none;
+    border-radius: 30px;
+    width: 250px;
+    position: relative;
+    left: 145px;
+}
